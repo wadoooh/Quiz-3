@@ -40,7 +40,7 @@ public class Teclado {
 
     /**
      * Método que desconecta mi teclado
-     * @return boolean: Indica si mi teclado no esta puede conectar
+     * @return boolean: Indica si mi teclado no se puede conectar
      *
      * Complejidad temporal: O(1) Tiempo Constante
      */
