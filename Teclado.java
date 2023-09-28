@@ -14,7 +14,7 @@ public class Teclado {
     /***************************************************/
 
     /**
-     * Constructor de la clase Mouse: Inicializa los atributos de mi clase
+     * Constructor de la clase Teclado: Inicializa los atributos de mi clase
      * @param marca
      * @param teclas
      * @param tipo
